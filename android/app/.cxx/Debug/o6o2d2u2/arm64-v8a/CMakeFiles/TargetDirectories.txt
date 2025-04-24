@@ -1,0 +1,2 @@
+C:/Users/FURQAN/netfilx/android/app/.cxx/Debug/o6o2d2u2/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/FURQAN/netfilx/android/app/.cxx/Debug/o6o2d2u2/arm64-v8a/CMakeFiles/rebuild_cache.dir
